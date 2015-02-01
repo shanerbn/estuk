@@ -49,9 +49,9 @@ gem 'devise'
 
 gem 'cancan'
 
-gem 'paperclip'
-
 gem 'aws-sdk'
+
+gem 'paperclip'
 
 gem 'friendly_id'
 
